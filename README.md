@@ -22,7 +22,9 @@ Users can set their gender, age, and location preferences, and the bot will matc
 
 git clone
 https://github.com/XxXYoungBloodXxX/tgdatingapp/
+
 cd tgdatingapp
+
 pip install -r requirements.txt
 
 ### 2. Install Requirements
